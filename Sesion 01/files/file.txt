@@ -1,0 +1,10 @@
+Escribo con modo r RRRRRR
+or aquí.
+Pera
+Manzana
+Plátano
+Linea ejemplo.
+
+Linea ejemplo XXXX.
+
+Linea ejemplo ZZZZZ
